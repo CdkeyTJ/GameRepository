@@ -10,4 +10,6 @@ Used for saving games, for the convenience of continuing the visit next time
   - 城市天际线
   - Minecraft
   - Terraria
-  - 
+  - OpenTTD
+  - 星空列车与白的旅行
+  - 米塔
